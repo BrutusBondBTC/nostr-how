@@ -17,7 +17,7 @@ One major benefit of using paid relays now is the higher signal of users and not
 
 ### Popular paid relays
 
-An up-to-date list of paid relays with details on how much they cost and who operates them can be found on [Relay Exchange](https://relay.exchange/)
+An up-to-date list of paid relays with details on how much they cost and who operates them can be found on the [Nostr.watch paid relays tab](https://nostr.watch/relays/find#paid)
 
 ### Where can I find a list of all relays?
 
